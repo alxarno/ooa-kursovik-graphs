@@ -1,0 +1,8 @@
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\bin\Debug\netstandard2.0\GraphsAlgorithms.deps.json
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\bin\Debug\netstandard2.0\GraphsAlgorithms.dll
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\bin\Debug\netstandard2.0\GraphsAlgorithms.pdb
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\obj\Debug\netstandard2.0\GraphsAlgorithms.csprojAssemblyReference.cache
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\obj\Debug\netstandard2.0\GraphsAlgorithms.AssemblyInfoInputs.cache
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\obj\Debug\netstandard2.0\GraphsAlgorithms.AssemblyInfo.cs
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\obj\Debug\netstandard2.0\GraphsAlgorithms.dll
+C:\Users\dek_s\Desktop\Graphs\GraphsAlgorithms\obj\Debug\netstandard2.0\GraphsAlgorithms.pdb

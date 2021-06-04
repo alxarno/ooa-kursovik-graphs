@@ -1,0 +1,12 @@
+C:\Users\dek_s\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\dek_s\Desktop\Graphs\Graphs\bin\Debug\Graphs.exe
+C:\Users\dek_s\Desktop\Graphs\Graphs\bin\Debug\Graphs.pdb
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.Properties.Resources.resources
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.csproj.GenerateResource.cache
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.exe
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.pdb
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.MainForm.resources
+C:\Users\dek_s\Desktop\Graphs\Graphs\bin\Debug\GraphsAlgorithms.dll
+C:\Users\dek_s\Desktop\Graphs\Graphs\bin\Debug\GraphsAlgorithms.pdb
+C:\Users\dek_s\Desktop\Graphs\Graphs\obj\Debug\Graphs.csproj.CopyComplete

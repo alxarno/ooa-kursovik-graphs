@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7yKjqh/7XtHJUjVfoHirzRa5bn/isn9XuvH2EPl8ReJPNqKN7rThzR14CKpEUYBqLSxD0k4LvKVSqQM//1Tz4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Axel\\Desktop\\Graphs\\GraphsAlgorithms\\GraphsAlgorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Axel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Axel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
